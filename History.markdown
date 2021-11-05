@@ -1,9 +1,3 @@
-## HEAD
-
-### Development Fixes
-
-  * Run CI on minimum required Ruby version (Ruby 2.4)
-
 ## 4.2.1 / 2021-09-27
 
 ### Bug Fixes
